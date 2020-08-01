@@ -1,0 +1,30 @@
+{
+  "name": "cv-node",
+  "version": "1.0.0",
+  "description": "A simple curriculum vitae builder with JavaScript.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Dabani/cv-node.git"
+  },
+  "keywords": [
+    "profile",
+    "work",
+    "education",
+    "portfolio",
+    "initiatives",
+    "social",
+    "hobby",
+    "users",
+    "blogs"
+  ],
+  "author": "Makuta Robert",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Dabani/cv-node/issues"
+  },
+  "homepage": "https://github.com/Dabani/cv-node#readme"
+}

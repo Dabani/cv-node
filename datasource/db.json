@@ -1,0 +1,614 @@
+{
+  "curricula":[ 
+    {
+      "id":1,
+      "status":"public",
+      "names": {
+        "first":"Robert",
+        "middle":"Banyanga",
+        "last": "Makuta",
+        "nick":"Dabani"
+      },
+      "title": {
+        "short":"BBIT", 
+        "long":"Bachelor of Business Information Technology"
+      },
+      "profession":"Systems Analyst & Web Designer",
+      "profile": {
+        "skills": {
+          "web":["HTML","CSS","XML"],
+          "cms":["OctoberCMS","Microweber"],
+          "frameworks":["Laravel","NodeJs","VueJS"],
+          "programing":["PHP","JavaScript","Java","Kotlin"],
+          "database":["MySql","MongoDB","Firestore","JSON"],
+          "ide":["IntelliJ","Eclipse","Android Studio","VS Code","Atom","Notepad++"],
+          "version-control":["Git"],
+          "webmaster":["CPanel","Webmail"],
+          "design":["Adobe Photoshop","Adobe Illustrator"],
+          "os":["Windows 10, Linux Ubuntu"],
+          "applications":["Microsoft Office 2013"]
+        },
+      
+        "languages": [
+          {
+            "id":1,
+            "code":"en",
+            "lang": {
+              "english": {
+                "reading":"good",
+                "writing":"good",
+                "listening":"good",
+                "speaking":"good"
+              }
+            }
+          },
+          {
+            "id":2,
+            "code":"fr",
+            "lang": {
+              "french": {
+                "reading":"advanced",
+                "writing":"advanced",
+                "listening":"advanced",
+                "speaking":"good"
+              }
+            }
+          },
+          {
+            "id":3,
+            "code":"sw",
+            "lang": {
+              "swahili": {
+                "reading":"basic",
+                "writing":"basic",
+                "listening":"good",
+                "speaking":"good"
+              }
+            }
+          },
+          {
+            "id":3,
+            "code":"sw",
+            "lang": {
+              "kinyarwanda": {
+                "reading":"advanced",
+                "writing":"advanced",
+                "listening":"advanced",
+                "speaking":"advanced"
+              }
+            }
+          }
+        ],
+      
+        "hobbies":["Programming","Reading","Watching TV (News, Sports, Movies)","Internet research","Sports (walking, football)"],
+      
+        "social-media": [
+          {
+            "media":"Facebook",
+            "id":"@robert.makuta",
+            "link":"https://web.facebook.com/robert.makuta/"
+          },
+          {
+            "media":"Twitter",
+            "id":"@Kamugwe",
+            "link":"https://twitter.com/Kamugwe"
+          },
+          {
+            "media":"LinkedIn",
+            "id":"@robert-makuta-b8b12525",
+            "link":"https://www.linkedin.com/in/robert-makuta-b8b12525/"
+          },
+          {
+            "media":"Github",
+            "id":"@Dabani",
+            "link":"https://github.com/Dabani"
+          }
+        ],
+        "contacts": {
+          "telephone":"+250788554939",
+          "email":["dabani.rm@gmail.com","sanga.irakoze@gmail.com","robertmaku@yahoo.fr"],
+          "website":
+          {
+            "name":"dabani.github.io",
+            "link":"https://dabani.github.io"
+          }
+        }      
+      },
+      "photo": {
+        "src":"/assets/images/makuta.jpg",
+        "alt":"",
+        "caption":"Makuta Robert"
+      },
+      "jobs": [
+        {
+          "id":1,
+          "position":"Administration Assistant",
+          "company":"Computer Information Systems Rwanda",
+          "from":"2008 (July)",
+          "to":"2019 (September)",
+          "description":"The company provides to the market various products, services and support in Networking, Telecommunication, and any other IT hardware supply and maintenance. CIS-RWANDA is the HP and Oracle Official Partner in Rwanda, and it is providing Oracle and HP solutions. The main duty is to assist the Managing Director (sitting abroad) and to locally represent the company in the current affairs.",
+          "tasks":
+            [
+              "Local Representation of the company in public and relational affairs.",
+              "Legal and fiscal affaires management.",
+              "Daily administrative tasks and mailing.",
+              "Petty cash and daily expenses management.",
+              "Company officials and guests trip and accommodation facilities, and stay assistance.",
+              "Tender opportunity lookup and bid preparation.",
+              "Shipments follow-up, customs clearing and delivery to end customers."
+            ],
+          "achievements":
+            [
+              "Shipments follow-up, customs clearing and delivery to end customers.",
+              "I've managed legal and fiscal affairs by alerting hierarchal superiors, then monitoring lawyers and auditors to handle serious issues.",
+              "I've collaborated with internal and external auditors to establish financial reports.",
+              "I've managed business mailing, receiving then replying to incoming emails.",
+              "I've planned and executed administrative tasks on daily basis.",
+              "I've initiated and held negotiations with customers.",
+              "I've held negotiations with suppliers.",
+              "I've planned and monitored daily activities.",
+              "I've managed the petty cash by controlling, providing and reporting funds to daily expenses.",
+              "I've managed the accommodation for both company officials and international company guests by managing required logistics, immigration facilities, and further assistances for a happier trips.",
+              "I've assisted and collaborated with various guest experts to succeed and to establish reports for their technical missions.",
+              "I've led team meetings.",
+              "I've checked for tender opportunities and collaborated with different human resources both at the national and international levels to prepare tender bids.",
+              "I've managed shipments from their importation logistics to their delivery to the end user customers, then followed up with the after service duties."
+            ]
+        },
+        {
+          "id":2,
+          "position":"Computer technician",
+          "company":"Computer Link Services",
+          "from":"2008 (April)",
+          "to":"2008 (June)",
+          "description":"Computer Link Services is a local company that offers various maintenance services to public and to private companies such as the High Court of the Republic of Rwanda, the Rwanda Red Cross Organization, the Inades Formation, the Bank Popular of Rwanda, COGEGANQUE… The main duty is to ensure optimum functionality to IT equipment and to assist third party companies’ employees.",
+          "tasks":
+            [
+              "Hardware & Software maintenance.",
+              "Local Networking troubleshouting and maintenance.",
+              "Computer user assistance.",
+              "Computer PC and Accessories installation."
+            ],
+          "achievements":
+            [
+              "I've executed hardware and software maintenance to computers and accessories in the end user customers' offices and premises in various areas across the country.",
+              "I've assisted customers and helped them to correctly manipulate computers and accessories.",
+              "I've checked and fixed local networks' issues.",
+              "I've checked and fixed connectivity's issues to the Internet.",
+              "I've installed PCs and Accessories.",
+              "I've checked faulty electronics' spares and proceeded their replacements.",
+              "I've repaired computers and accessories."
+            ]
+        },
+        {
+          "id":3,
+          "position":"IT officer",
+          "company":"CFE AGASEKE SA",
+          "from":"2007 (April)",
+          "to":"2008 (March)",
+          "description":"Cfe AGASEKE is a prosperous banking company with distant agencies connected to the head office via VPN. To satisfy customers in such growing company data have to be kept always reliable and the performance of each electronic equipment must be optimized and stay at a high level. The main duty is to keep safe the IT ecosystem and to ensure that users manipulate well their IT equipment.",
+          "tasks":
+            [
+              "Hardware & Software maintenance.",
+              "Local Networking troubleshouting and maintenance.",
+              "Computer Local end-user assistance.",
+              "Computer and Accessories installation.",
+              "Application software training."
+            ],
+          "achievements":
+            [
+              "I've assembled and installed new equipment including PCs, Printers, Scanners, Copiers, Switches, and Routers...",
+              "I've managed equipment's consumers such as cartridges, tonners, ribbons...",
+              "I've installed and configured servers (Windows 2003 Servers).",
+              "I've installed and updated operating systems, application systems and antiviruses.",
+              "I've checked, cleaned and scanned PCs.",
+              "I've designed and installed local networks.",
+              "I've connected branches to the headquarters' office."
+            ]
+        },
+        {
+          "id":4,
+          "position":"Computer Technician",
+          "company":"Computer Information Systems",
+          "from":"2004 (April)",
+          "to":"2007 (April)",
+          "description":"Computer Information Systems is providing maintenance services to some public and private companies such as the Rwanda Social Security Funds (Caisse Sociale du Rwanda), ACORD Rwanda, SONARWA, BACAR... The main duty is to ensure optimum functionality to IT equipment and to assist third party companies’ employees.",
+          "tasks":
+            [
+              "Hardware maintenance : PC (desktops + Laptops), Printers, Scanners, Switches, backup battery.",
+              "Local Networking troubleshouting and maintenance.",
+              "Computer installation : operating system installation, application system installation, security and antivirus system installation, drivers configuration, accessories installation (printers, scanners, plotters...).",
+              "Software maintenance : Disks cleanup, software updates…"
+            ],
+          "achievements":
+            [
+              "I've maintained hardware equipment such as desktops, laptops, printers, scanners, switches, backup batteries.",
+              "I've checked and fixed local networks.",
+              "I've installed PCs operating systems, application systems, and security and antivirus applications.",
+              "I've installed and configured PCs accessories and drivers.",
+              "I've cleaned up disks and updated applications.",
+              "I've installed and replaced PCs' spares.",
+              "I've repaired PCs accessories and spares."
+            ]
+        }
+      ],
+      "education": [
+        {
+          "id":1,
+          "title":"Bachelor of Business Information Technology",
+          "institution":"Mount Kenya University (MKU)",
+          "from":"2009",
+          "to":"2010"
+        },
+        {
+          "id":2,
+          "title":"Computer Engineering & Information Technology",
+          "institution":"Kigali Institute of Science & Technology (KIST)",
+          "from":"2001",
+          "to":"2006"
+        },
+        {
+          "id":3,
+          "title":"Don Bosco Education and Methodology Systems",
+          "institution":"Noviciat du Sacré Cœur de Rango (HUYE)",
+          "from":"1999",
+          "to":"2000"
+        },
+        {
+          "id":4,
+          "title":"General Humanities: Latin-Sciences",
+          "institution":"Petit Séminaire St Vincent de Ndera (KIGALI)",
+          "from":"1988",
+          "to":"1997"
+        },
+        {
+          "id":5,
+          "title":"Foundation Education",
+          "institution":"Ecole Primaire d’Application (EPA-Nyarugenge)",
+          "from":"1980",
+          "to":"1988"
+        }
+      ],
+      "trainings": [
+        {
+          "id":1,
+          "title":"GOV.RW UX CHALLENGE BOOTCAMP",
+          "institution":"RISA (Rwanda Information Society Authority)",
+          "from":"2018/12/03",
+          "to":"2018/12/07"
+        },
+        {
+          "id":2,
+          "title":"Assistant Leader Trainer",
+          "institution":"Rwanda Scouts Association",
+          "from":"2012/05/10",
+          "to":"2012/05/12"
+        },
+        {
+          "id":3,
+          "title":"Projects Management",
+          "institution":"Right To Play",
+          "from":"2011/05/25",
+          "to":"2011/05/27"
+        }
+      ],
+      "portfolio": [
+        {
+          "id":1,
+          "introduction":"The websites below have been developed using various technology, some have been developed using PHP from scratch, others using frameworks like Laravel and Bootstrap, others using Content Management System such as October CMS, Microweber, etc.",
+          "work":{
+            "websites": [
+              {
+                "id":1,
+                "title":"Consultancy & Services Company",
+                "link":"www.cscrwanda.com",
+                "frontend":"Microweber Dream template",
+                "backend":"Microweber CMS based on Laravel",
+                "created":2020,
+                "updated":2020
+              },
+              {
+                "id":2,
+                "title":"Catholic Archdiocese of Kigali",
+                "link":"www.archidiocesekigali.org",
+                "frontend":"OctoberCMS Kitify3, a UI3Kit theme",
+                "backend":"October CMS based on Laravel",
+                "created":2017,
+                "updated":2019
+              },
+              {
+                "id":3,
+                "title":"La Pastorale des Jeunes CEPJ",
+                "link":"www.urubyiruko.net",
+                "frontend":"OctoberCMS Rusty, a BS4 theme",
+                "backend":"October CMS based on Laravel",
+                "created":2012,
+                "updated":2020
+              },
+              {
+                "id":4,
+                "title":"SAC-Province Sainte Famille",
+                "link":"www.sac-psf.info",
+                "frontend":"October CMS Rusty, a BS4 theme",
+                "backend":"October CMS based on Laravel",
+                "created":2018,
+                "updated":2019
+              },
+              {
+                "id":5,
+                "title":"Rwanda Ancient Scouts Alliance",
+                "link":"www.rasal.rw",
+                "frontend":"October CMS Rusty, a BS4 theme",
+                "backend":"October CMS based on Laravel",
+                "created":2017,
+                "updated":2018
+              },
+              {
+                "id":6,
+                "title":"Caritas-CDJP Archdiocese of Kigali",
+                "link":"www.caritas-cdjp-kigali.rw",
+                "frontend":"October CMS Hambern, a BS4 theme",
+                "backend":"October CMS based on Laravel",
+                "created":2017,
+                "updated":2018
+              },
+              {
+                "id":7,
+                "title":"Cyahafi Saint Peter's Parish",
+                "link":"www.cyahafi.org",
+                "frontend":"Custom theme, a BS4 layout",
+                "backend":"Custom PHP CMS from scratch",
+                "created":2015,
+                "updated":2016
+              },
+              {
+                "id":8,
+                "title":"Catholic Diocese of Byumba",
+                "link":"www.diocesebyumba.org",
+                "frontend":"Custom theme, a BS4 layout",
+                "backend":"Custom PHP CMS from scratch",
+                "created":2015,
+                "updated":2016
+              }
+            ]
+          },
+          "status":"public"
+        },
+        {
+          "id":2,
+          "introduction":"All of the logos below have been designed for real companies, organizations while some of them are designed for fun! Nobody can use them without the authorization of the author!",
+          "work":{
+            "logos":[
+              {
+                "id":1,
+                "title":"Dabani Coding",
+                "src":"/assets/images/logos/logo-square.png"
+              },
+              {
+                "id":2,
+                "title":"UBU",
+                "src":"/assets/images/logos/ubu-logo.png"
+              },
+              {
+                "id":3,
+                "title":"Delice",
+                "src":"/assets/images/logos/delice-logo.png"
+              },
+              {
+                "id":4,
+                "title":"Essential Quality Company",
+                "src":"/assets/images/logos/essential-quality-company.png"
+              },
+              {
+                "id":5,
+                "title":"Kigali International Choir",
+                "src":"/assets/images/logos/ciei-logo.png"
+              },
+              {
+                "id":6,
+                "title":"Kiyovu FC A Jamais Fan Club",
+                "src":"/assets/images/logos/ajamais-logo.png"
+              },
+              {
+                "id":7,
+                "title":"Cyahafi St Peter's Parish",
+                "src":"/assets/images/logos/logo-cyahafi-2.png"
+              },
+              {
+                "id":8,
+                "title":"DABANI",
+                "src":"/assets/images/logos/dabani-logo8.png"
+              }
+            ]
+          },
+          "status":"public"
+        }
+      ],
+      "initiatives":[
+        {
+          "id":1,
+          "initiative":"ASSOCIATION DES ANCIENS SEMINARISTES DE NDERA",
+          "description":"",
+          "roles":[
+            {
+              "name":"President",
+              "from":"2018",
+              "to":"2020"
+            },
+            {
+              "name":"Member",
+              "from":"1998",
+              "to":"2020"
+            }
+          ],
+          "achievements":[
+            "Committee Meeting Presidency.",
+            "Social events organization.",
+            "Fundraisings."
+          ],
+          "status":"public"
+        },
+        {
+          "id":2,
+          "initiative":"Rwanda Ancient Scouts Alliance",
+          "description":"",
+          "roles":[
+            {
+              "name":"General Secretary",
+              "from":"2018",
+              "to":"2020"
+            },
+            {
+              "name":"Founder Member",
+              "from":"2017",
+              "to":"2020"
+            },
+            {
+              "name":"Rasal Blogger",
+              "from":"2017",
+              "to":"2020"
+            }
+          ],
+          "achievements":[
+            "Executive Committee meetings minutes and reports",
+            "General Assemblies reports.",
+            "Activities' reports.",
+            "Community Events to support vulnerable people.",
+            "Various articles written and published at rasal.rw"
+          ],
+          "status":"public"
+        },
+        {
+          "id":3,
+          "initiative":"Kigali International Choir & Instrumental Ensemble",
+          "description":"",
+          "roles":[
+            {
+              "name":"General Secretary",
+              "from":"2011",
+              "to":"2018"
+            },
+            {
+              "name":"Singer",
+              "from":"2008",
+              "to":"2011"
+            }
+          ],
+          "achievements":[
+            "CHORALI: The Regional International Musician Meeting organised in Kigali.",
+            "Annual Christmas Carols Concerts.",
+            "Annual Valentine's Day Concerts.",
+            "Contribution to the East African Community Anthem as choir singer.",
+            "Music trainings."
+            "Rehearsals."
+          ],
+          "status":"public"
+        },
+        {
+          "id":4,
+          "initiative":"Rwanda Scout Association",
+          "description":"",
+          "roles":[
+            {
+              "name":"National Commissioner in charge of Kigali City",
+              "from":"2012",
+              "to":"2013"
+            },
+            {
+              "name":"General Secretary",
+              "from":"2011",
+              "to":"2012"
+            }
+          ],
+          "achievements":[
+            "Elective General Meeting ending the transitional period.",
+            "Scout Week and Scout Founder Day events at national level.",
+            "Participation to the Africa Scout Day in Burundi.",
+            "Member of Kigali City Youth Platform.",
+            "Youth mobilisation to make and keep Kigali clean."
+          ],
+          "status":"public"
+        },
+        {
+          "id":5,
+          "initiative":"Gasabo District Scouts",
+          "description":"",
+          "roles":[
+            {
+              "name":"District Commissioner",
+              "from":"2010",
+              "to":"2011"
+            },
+            {
+              "name":"District Commissioner",
+              "from":"2007",
+              "to":"2010"
+            },
+            {
+              "name":"Urugero Redactor",
+              "from":"2007",
+              "to":"2011"
+            }
+          ],
+          "achievements":[
+            "Scout Week and Scout Founder Day events at district level.",
+            "Scout Campfire and Scout Bootcamps organization.",
+            "Scout Unities' activities monitoring and supervision.",
+            "Youth mobilisation for unity, reconciliation, safety, and hygiene.",
+            "Drug fight campaign.",
+            "Articles published in URUGERO Review"
+          ],
+          "status":"public"
+        }
+      ],
+      "family":{
+        "status":"private",
+        "marital":"married",
+        "spouse":"Laetitia",
+        "children":["Happy","Blessing"],
+        "father":"Symaque",
+        "mother":"Marie Chantal",
+        "sisters":["Shemsa"],
+        "brothers":["Tharcisse","Bob","Regis","Eric","Gaston"]
+      },
+      "friends":[],
+      "posts":[
+        {
+          "id":1,
+          "content":"",
+          "status":"public"
+        }
+      ]
+    }
+  ],
+  "users": [ 
+    {
+      "id":1,
+      "username":"dabani",
+      "email":"dabani.rm@gmail.com",
+      "password":"123abc",
+      "status":1
+    }
+  ],
+  "blogs": [
+    {
+      "id":1,
+      "title":"",
+      "slug":"",
+      "content":"",
+      "featured_image":"",
+      "author":1,
+      "created_at":"",
+      "updated_at":"",
+      "published":0,
+      "comments":[
+        {
+          "id":1,
+          "comment":"",
+          "author":1,
+          "status":1
+        }
+      ]
+    }
+  ]
+}
